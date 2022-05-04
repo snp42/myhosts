@@ -1,5 +1,5 @@
 # myhosts
-Daily by [hblock] generated custom ad blocker hosts file with [sources] from [adaway], [duckduckgo], [easylist], [energized], [exodusprivacy], [no-google], [Peter Lowe’s], [uBlockOrigin] and [urlhaus].
+Weekly by [hblock] generated custom ad blocker hosts file with [sources] from [adaway], [duckduckgo], [easylist], [energized], [exodusprivacy], [no-google], [Peter Lowe’s], [uBlockOrigin] and [urlhaus].
 
 [hblock]: https://github.com/hectorm/hblock
 [sources]: https://github.com/snp42/myhosts/blob/main/sources.list
