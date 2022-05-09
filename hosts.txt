@@ -1,5 +1,5 @@
 # Generated with hBlock 3.3.2 (https://github.com/hectorm/hblock)
-# Blocked domains: 43621
+# Blocked domains: 43620
 
 # BEGIN BLOCKLIST
 0.0.0.0 -ad.jpg.pagespeed
@@ -28251,7 +28251,6 @@
 0.0.0.0 play.aniview.com
 0.0.0.0 play.google.com
 0.0.0.0 play.google.es
-0.0.0.0 play.googleapis.com
 0.0.0.0 play.history.com
 0.0.0.0 play.leadzuaf.com
 0.0.0.0 play.libsyn.com
