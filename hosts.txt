@@ -1,5 +1,5 @@
 # Generated with hBlock 3.3.2 (https://github.com/hectorm/hblock)
-# Blocked domains: 57549
+# Blocked domains: 57547
 
 # BEGIN BLOCKLIST
 0.0.0.0 -ad.jpg.pagespeed
@@ -21448,7 +21448,6 @@
 0.0.0.0 farabel.com
 0.0.0.0 faracoon.com
 0.0.0.0 farakhanjazb.appengine.google.com
-0.0.0.0 fardasub.pw
 0.0.0.0 fareportal-app.quantummetric.com
 0.0.0.0 faresgame.com
 0.0.0.0 farethief.com
@@ -47513,7 +47512,6 @@
 0.0.0.0 subsqs-dnsotls-ds.metric.gstatic.com
 0.0.0.0 substrate.office.com
 0.0.0.0 subsvip.com
-0.0.0.0 subtak.ir
 0.0.0.0 subway2016.tt.omtrdc.net
 0.0.0.0 subwayfranchiseeadvertising.sc.omtrdc.net
 0.0.0.0 succeedkid.com
